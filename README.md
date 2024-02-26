@@ -2,7 +2,7 @@
 I don't like IXL but I do like to code, so I decided to make this. This repo uses Auto Hot Key (AHK) to automaticly answer questions for IXL. As of now it can only do B.1 in twelvth grade.
 
 ## Disclaimer!!
-Please do not use this to cheat on IXL. If you are doing a leaderboard and you have to answer at least 100 questions, answer those by hand and only then use this for Goofs and Giggles. Use the honor system!
+Please do not use this to cheat on IXL. Answer quiestions by hand until you understand the lopic, and if you are doing a leaderboard, use this for Goofs and Giggles. Use the honor system!
 
 ## Prerequisites 
 To use this script, you need Windows 10/11 and to install AHK from [here](https://www.autohotkey.com/download/ "AHK Download"). Be sure to install the latest version. 
