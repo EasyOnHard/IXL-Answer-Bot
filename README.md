@@ -21,6 +21,7 @@ At first project was only for Windows, but I soon realized that many people do n
 Installing Python is a bit more complicated than AHK, but it is fairly straightforward. First, you will need Python 3.10.6. download that [here](https://www.python.org/downloads/release/python-3106/).  Next, you will need a Virtual Environment (venv). These can be a bit complicated, but they work. Watch the videos below for instructions:  
 - [Windows](https://youtu.be/APOPm01BVrk?si=L-mjL20vjYLZV_P2)
 - [Mac/Linux](https://youtu.be/Kg1Yvry_Ydk?si=v4lI9A4fV9bQa0RY)  
+
 Terminal interfacing is really not all that bad after you get used to it. I have the `requirements.txt` in the python folder, so download that file into the same folder as your venv and run the following code in the Terminal:  
 `pip install -r requirements.txt`  
 If all goes well, you should see pip do its stuff and download the required python modules into the venv. To now run the script, go into its file and run  
