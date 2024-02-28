@@ -1,5 +1,4 @@
 # I need to update this!
-******
 
 ## An IXL Bot
 I don't like IXL but I do like to code, so I decided to make this. This repo uses Auto Hot Key (AHK) to automatically answer questions for IXL. As of now it can only do B.1 for twelvth grade and M.1 for eighth.
@@ -20,8 +19,19 @@ All of the mouse positions in this program are hardcoded, meaning that you may h
 
 # Python
 
-## lorum ipsum
-Lorem ipsum dolar sit amet  
+## About 
+At first project was only for Windows, but I soon realized that many people do not have Windows, thus they cannot use this repository. That is why I added the Python folder. Python SHOULD be compatible with Mac and Linux, but I have not tested it out yet.
+
+## Prerequisites
+Installing Python is a bit more complicated than AHK, but it is fairly straightforward. First, you will need Python 3.10.6. download that [here](https://www.python.org/downloads/release/python-3106/).  Next, you will need a Virtual Environment (venv). These can be a bit complicated, but they work. Watch the videos below for instructions:
+
+- [Windows](https://youtu.be/APOPm01BVrk?si=L-mjL20vjYLZV_P2)
+- [Mac/Linux](https://youtu.be/Kg1Yvry_Ydk?si=v4lI9A4fV9bQa0RY)  
+
+Terminal interfacing is really not all that bad after you get used to it. I have the `requirements.txt` in the python folder, so download that file into the same folder as your venv and run the following code in the Terminal:  
+`pip install -r requirements.txt`  
+If all goes well, you should see pip do its stuff...
+
 ******
 If you want to change the keybinds, refer to the [doc](https://www.autohotkey.com/docs/v2/Hotkeys.htm).  
 This repo should be relatively secure and safe, but AHK can get stuck in loops!
