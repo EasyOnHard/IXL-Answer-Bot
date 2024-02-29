@@ -16,7 +16,7 @@ All of the mouse positions in this program are hardcoded, meaning that you may h
 
 # Python
 ## About 
-At first project was only for Windows, but I soon realized that many people do not have Windows, thus they cannot use this repository. That is why I added the Python folder. Python SHOULD be compatible with Mac and Linux, but I have not tested it out yet.
+At first project was only for Windows, but I soon realized that many people do not have Windows, thus they cannot use this repository. That is why I added the Python folder. Python SHOULD be compatible with Mac and Linux, but it seems to not work. If you can, fork this repo and submit a pull request if you fix it.
 ## Prerequisites
 Installing Python is a bit more complicated than AHK, but it is fairly straightforward. First, you will need Python 3.10.6. download that [here](https://www.python.org/downloads/release/python-3106/).  Next, you will need a Virtual Environment (venv). These can be a bit complicated, but they work. Watch the videos below for instructions:  
 
@@ -27,7 +27,7 @@ Terminal interfacing is really not all that bad after you get used to it. I have
 `pip install -r requirements.txt`  
 If all goes well, you should see pip do its stuff and download the required python modules into the venv. To now run the script, go into its file and run  
 `python B_M.1.py`.  
-Modifying the code in python is about the same as in AHK, and if you gave made it here you can make it work.
+You do not need to modify the code to change mouse positions.
 
 ******
 If you want to change the keybinds, refer to the [doc](https://www.autohotkey.com/docs/v2/Hotkeys.htm).  
