@@ -2,8 +2,6 @@
 
 ## I have stopped work on this repo. Thanks to anyone who tried it!
 
-![image](https://cdn.discordapp.com/attachments/1226633441135820803/1261428313277075477/tYvAJ7T.png?ex=6692ec2a&is=66919aaa&hm=e6214969d86088d0858ada540754a35d646abc92e7606f08f21c24fb1e860f20&)
-
 ## An IXL Bot
 I don't like IXL but I do like to code, so I decided to make this. This repo uses Auto Hot Key (AHK) to automatically answer questions for IXL. As of now it can only do B.1 for twelvth grade and M.1 for eighth.
 
