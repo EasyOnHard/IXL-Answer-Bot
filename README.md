@@ -1,6 +1,6 @@
 # Note: Mac/Linux does not currently work.
 
-## I have stopped work on this repo. Thanks to anyone who tried it!
+## I no longer have access to IXL, so I can't continue working on this repo. If anyone is interested in continuing work on it, please reach out. Thanks to anyone who tried it!
 
 ## An IXL Bot
 I don't like IXL but I do like to code, so I decided to make this. This repo uses Auto Hot Key (AHK) to automatically answer questions for IXL. As of now it can only do B.1 for twelvth grade and M.1 for eighth.
